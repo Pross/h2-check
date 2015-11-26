@@ -16,11 +16,20 @@
 
     <!-- Custom styles for this template -->
     <link href="assets/sticky-footer.css" rel="stylesheet">
+    
+    <link rel="stylesheet" href="http://simonwhitaker.github.io/github-fork-ribbon-css/gh-fork-ribbon.css">
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="http://simonwhitaker.github.io/github-fork-ribbon-css/gh-fork-ribbon.ie.css">
+    <![endif]-->
 
   </head>
 
   <body>
-
+    <div class="github-fork-ribbon-wrapper right">
+    <div class="github-fork-ribbon">
+        <a href="https://github.com/Pross/h2-check">Fork me on GitHub</a>
+    </div>
+  </div>
     <!-- Begin page content -->
     <div class="container">
       <div class="page-header">
