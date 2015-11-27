@@ -17,9 +17,9 @@
     <!-- Custom styles for this template -->
     <link href="assets/sticky-footer.css" rel="stylesheet">
     
-    <link rel="stylesheet" href="http://simonwhitaker.github.io/github-fork-ribbon-css/gh-fork-ribbon.css">
+    <link rel="stylesheet" href="//simonwhitaker.github.io/github-fork-ribbon-css/gh-fork-ribbon.css">
     <!--[if lt IE 9]>
-        <link rel="stylesheet" href="http://simonwhitaker.github.io/github-fork-ribbon-css/gh-fork-ribbon.ie.css">
+        <link rel="stylesheet" href="//simonwhitaker.github.io/github-fork-ribbon-css/gh-fork-ribbon.ie.css">
     <![endif]-->
 
   </head>
